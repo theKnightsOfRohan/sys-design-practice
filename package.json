@@ -1,0 +1,19 @@
+{
+  "name": "sys-design-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theKnightsOfRohan/sys-design-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theKnightsOfRohan/sys-design-practice/issues"
+  },
+  "homepage": "https://github.com/theKnightsOfRohan/sys-design-practice#readme"
+}
